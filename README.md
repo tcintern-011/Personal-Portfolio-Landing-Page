@@ -18,26 +18,6 @@ freelance, and job opportunities.
 
 ---
 
-## PROJECT STRUCTURE
-
-Portfolio/
-│
-├── index.html
-├── style.css
-│
-└── images/
-├── images.jpg
-├── images (2).jpg
-├── py.png
-├── ml.jpg
-├── comp.png
-├── llms.jpg
-├── house price.jpg
-├── crypt.jpg
-└── agent.jpg
-
----
-
 ## WEBSITE SECTIONS
 
 1. Navigation Bar
